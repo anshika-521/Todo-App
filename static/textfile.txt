@@ -1,0 +1,3 @@
+hello hello
+
+// never add files like this in static folder
